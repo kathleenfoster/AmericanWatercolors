@@ -1,8 +1,6 @@
-##Attribution-ShareAlike 2.5
+#Attribution-ShareAlike 2.5
 
-[license](https://creativecommons.org/licenses/by-sa/2.5/legalcode)
-
-License
+[License](https://creativecommons.org/licenses/by-sa/2.5/legalcode)
 
 THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
 
