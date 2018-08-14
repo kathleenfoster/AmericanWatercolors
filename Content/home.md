@@ -8,9 +8,9 @@ Contemporary exhibition reviews and artist studies that appeared in newspapers a
 
 Additions to this bibliography will be made to the [Zotero library](https://www.zotero.org/groups/174515/items) by the Philadelphia Museum of Art as new sources are discovered. Individual users cannot alter or add entries but are encouraged to suggest additions or make corrections to this collective bibliography by contacting [Americanartinfo@philamuseum.org](mailto:Americanartinfo@philamuseum.org).
 
-This bibliography has also been downloaded and made accessible here as pdfs in three different formats: (1) [chronological order](Bibliography/2_Bibliography_of_Periodical_Literature_by_date.pdf); (2) [alphabetical order by publication](Bibliography/3_Bibliography_of_Periodical_Literature_by_publication.pdf); (3) [alphabetical order by author](Bibliography/4_Bibliography_of_Periodical_Literature_by_author.pdf), if known. These pdfs were created in March 2017 and will be updated periodically. 
+This bibliography has also been downloaded and made accessible here as pdfs in three different formats: (1) [chronological order](Bibliography/2_Bibliography_of_Periodical_Literature_by_date.pdf); (2) [alphabetical order by publication](Bibliography/3_Bibliography_of_Periodical_Literature_by_publication.pdf); (3) [alphabetical order by author](Bibliography/4_Bibliography_of_Periodical_Literature_by_author.pdf), if known. These pdfs were created in February 2018 and will be updated periodically. 
 
-To assist researchers using this bibliography, an overview of the publication histories of the various periodicals is provided as a [pdf](Bibliography/5_Bibliography_of_Periodical_Literature_Source_Notes.pdf), along with information on how to access them online for further research. This information is current as of March 2017.
+To assist researchers using this bibliography, an overview of the publication histories of the various periodicals is provided as a [pdf](Bibliography/5_Bibliography_of_Periodical_Literature_Source_Notes.pdf), along with information on how to access them online for further research. This information is current as of February 2018.
 
 ## Catalogues of the Annual Exhibitions of the American Watercolor Society
 
