@@ -21,7 +21,7 @@ url: "https://philamuseum.github.io/AmericanWatercolors/" # the base hostname & 
 
 # Build settings
 markdown: kramdown
-theme: jekyll-airspace
+remote_theme: jekyll-airspace
 gems:
   - jekyll-feed
 exclude:
